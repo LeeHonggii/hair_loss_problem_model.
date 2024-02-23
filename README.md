@@ -6,17 +6,19 @@
 아래는 우리 데이터셋의 구조입니다:
 
 
+\```
 our_dataset/
 ├── True/
-│ ├── image1.jpg
-│ ├── image2.jpg
-│ └── ...
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
 └── False/
-├── image1.jpg
-├── image2.jpg
-└── ...
+    ├── image1.jpg
+    ├── image2.jpg
+    └── ...
+\```
 
 
-#사용된 모델 
+## 사용된 모델 
  ResNet50, googlenet
 
